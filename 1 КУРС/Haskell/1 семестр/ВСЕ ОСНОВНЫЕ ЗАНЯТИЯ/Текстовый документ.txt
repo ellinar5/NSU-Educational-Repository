@@ -1,0 +1,25 @@
+import Data.Char (isDigit)
+import Data.List (nub)
+
+-- Удаляет ненужные символы и форматирует номер телефона
+formatPhoneNumber :: String -> Either String String
+formatPhoneNumber number
+  | null digitsOnly = Left "Номер телефона не должен быть пустым"
+  | take 2 digitsOnly == "86" = Right (drop 2 digitsOnly) -- Убираем код страны
+  | otherwise = Right digitsOnly
+  where
+    digitsOnly = filter isDigit number
+
+-- Проверяет наличие кодов городов
+data CityCode = Beijing | Shanghai | Tianjin | Chongqing deriving (Show, Eq)
+
+cityCodes :: [(String, CityCode)]
+cityCodes = [("010", Beijing), ("021", Shanghai), ("022", Tianjin), ("023", Chongqing)]
+
+telefon :: String -> Either String CityCode
+telefon str
+  | null str = Left "error"
+  | otherwise =
+      case lookup (take 3 str) cityCodes of
+        Just code -> Right code
+        Nothing -> Left "Некорректный код города"
