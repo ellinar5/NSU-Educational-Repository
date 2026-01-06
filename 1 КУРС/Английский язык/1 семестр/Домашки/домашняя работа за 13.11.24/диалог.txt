@@ -1,0 +1,45 @@
+ity8. Make up a dialogue answering the following questions. Use the
+ext and the Internet. Think over where this dialogue can take place.
+1. What robots with Point-to-Point path do you know?
+2. What industrial robots are there?
+3. What do you know about servo-controlled robots?
+4. What robots with Controlled path can you name?
+5. What types of path are the most controllable?
+6. What types of path are the most dangerous for personnel?
+7. What robots with Continuous Path do you know?
+
+
+
+Роли *1 **2
+
+-- scientific conference on robotics --
+
+
+1. Прочитал/ла научную статью по теме троектория движения роботов. What robots with Point-to-Point path do you know? (1 вопрос)
+
+2.Ответ на вопрос (можно взять из текста): I know that many pick-and-place robots use the Point-to-Point path. They move from one discrete location to another, typically to assemble parts or load materials.
+
+1. That's interesting! What industrial robots are there beyond those? (2 вопрос)
+
+2. Ответ на вопрос: There are several types of robots, for example, universal, that is, performing various types of operations, special, robotic manipulators and robots for machine maintenance.
+
+1.You gave the example of a robot manipulator. It works on servo control. What else do you know about such robots? (3 вопрос)
+
+2.Ответ на вопрос: Servo-controlled robots are equipped with sensors that continuously monitor their position and velocity, allowing for precise control. This feedback allows them to adapt and respond to their environment effectively.
+
+1. Got it! What robots with Controlled path can you name? (4 вопрос)
+
+2.
+
+1.(5 вопрос)
+
+2.
+
+1.(6 вопрос)
+
+2.
+
+
+1.(7 вопрос)
+
+2.

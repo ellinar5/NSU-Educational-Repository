@@ -1,0 +1,134 @@
+
+1. Robot follows .path. (путь) on given  .trajectory. (траектория)
+2. Manipulator can do rotation around vertical осью (axis).
+3. Robot требует (requires) some программируемых (programmable) data to выполнить (perform) a движение (movement).
+4. Computer требует (requires) a обратная связь (feedback) to set a позицию (position).
+5. To turn off the computer you need to .execute. (выполнить) simple последовательность .sequence. (последо
+6. Sometimes you need to .perform. (выполнять) some actions .manually. (вручную) like to turn off the robot with .switch. (переключатель) 
+
+
+
+duclarm robots 
+декартовы роботы - cartesion robots 
+избыточные роботы - redundant robot
+
+краткая информация:
+
+Cartesian Robots  
+Cartesian robots, also known as linear manipulators, move in straight lines along three mutually perpendicular axes corresponding to Cartesian coordinates (X, Y, Z). They are commonly used in automated manufacturing processes for tasks like packaging, assembly, and material handling. Advantages include simple construction, high precision, and easy integration into existing production lines.
+
+Redundant Robots  
+Redundant robots possess more degrees of freedom than required for specific tasks, allowing them to avoid obstacles and choose optimal paths. This adaptability enhances maneuverability and reduces the risk of entrapment. They are widely utilized in complex manipulations, such as surgical robots and research applications. Redundancy also improves positioning accuracy while reducing mechanical stress.
+
+
+текст:
+
+Activity 6. Read the text and check your ideas.
+
+Industrial Robots
+
+Industrial robots are programmable multifunctional mechanical devices designed
+to move material, parts, tools, or specialized devices through variable programmed
+motions to perform a variety of tasks. An industrial robot system includes not only
+industrial robots but also any devices and/or sensors required for the robot to perform
+its tasks as well as sequencing or monitoring communication interfaces.
+
+*Промышленные роботы - это программируемые многофункциональные механические устройства, предназначенные
+для перемещения материалов, деталей, инструментов или специализированных устройств с помощью различных запрограммированных движений для выполнения различных задач. Промышленная робототехническая система включает в себя не только промышленных роботов, но и любые устройства и/или датчики, необходимые роботу для выполнения своих задач, а также коммуникационные интерфейсы последовательности или мониторинга.
+
+
+All industrial robots are either servo or non-servo controlled. Servo robots
+are controlled through the use of sensors that
+continually monitor the robot's axes and associated components for position and velocity. This feedback is compared to pre-taught information which has been programmed and stored in the robot's
+memory. Non-servo robots do not have the feedback capability, and their axes are
+controlled through a system of mechanical stops and limit switches.
+Industrial robots can be programmed from a distance to perform their
+required and preprogrammed operations with different types of paths generated
+through different control techniques. The three different types of paths generated
+are point-to-point path, controlled path, and continuous path.
+
+*Все промышленные роботы управляются либо с помощью сервопривода, либо без него. 
+Управление сервороботами осуществляется с помощью датчиков, которые
+постоянно отслеживают положение и скорость осей робота и связанных с ними компонентов. Эта обратная связь сравнивается с предварительно запрограммированной информацией, которая хранится в
+памяти робота. Роботы без сервопривода не имеют обратной связи, а их оси
+управляются с помощью системы механических упоров и концевых выключателей.
+Промышленные роботы могут быть запрограммированы на расстоянии для выполнения своих функций.
+требуемые и запрограммированные операции с различными типами траекторий, генерируемых
+с помощью различных методов управления. Генерируются три различных типа траекторий: траектория 
+"точка-точка", управляемая траектория и непрерывная траектория.
+
+
+Point-to-Point Path. Robots programmed and controlled in this manner are
+programmed to move from one discrete point to another within the robot's working
+envelope. In the automatic mode of operation, the exact path taken by the robot
+will vary slightly due to variations in velocity, joint geometries, and point spatial
+locations. This difference in paths is difficult to predict and therefore can create a
+potential safety hazard to personnel and equipment.
+
+*Путь от точки к точке. Роботы, запрограммированные и управляемые таким образом, запрограммированы на перемещение из одной отдельной точки в другую в пределах рабочей зоны робота. В автоматическом режиме работы точный путь, пройденный роботом, будет незначительно отличаться из-за различий в скорости, геометрии суставов и пространственном расположении точек. Это различие в траекториях трудно предсказать, и поэтому оно может создать потенциальную угрозу безопасности персонала и оборудования.
+
+
+Controlled Path. The path or mode of movement ensures that the end of the
+robot's arm will follow a predictable path and orientation as the robot travels from
+point to point. The coordinate transformations required for this hardware
+management are calculated by the robot's control system computer. Observations
+that result from this type of programming are less likely to present a hazard to
+personnel and equipment.
+
+*Управляемая траектория. Траектория или режим движения гарантирует, что конец манипулятора
+робота будет следовать предсказуемой траектории и ориентации при перемещении робота от
+точки к точке. Преобразования координат, необходимые для управления этим оборудованием, рассчитываются компьютером системы управления роботом. Наблюдения, полученные в результате такого программирования, с меньшей вероятностью представляют опасность для персонала и оборудования.
+
+
+Activity 7. Answer the questions to the text.
+
+1. What are industrial robots?
+
+*Industrial robots are programmable multifunctional mechanical devices designed
+to move material, parts, tools, or specialized devices through variable programmed
+motions to perform a variety of tasks.
+
+
+2. How are servo robots controlled?
+
+*Servo robots are controlled through the use of sensors that continually monitor the robot's axes and associated components for position and velocity. This feedback is compared to pre-taught information which has been programmed and stored in the robot's memory.
+
+
+
+3. What is the difference between servo robots and non-servo robots?
+
+*The difference between servo robots and non-servo robots lies in their control systems. Servo robots use sensors for continuous feedback on position and velocity, allowing for precise and adaptive control. In contrast, non-servo robots lack feedback capabilities and operate based on mechanical stops and limit switches, resulting in less precision and adaptability.
+
+**Разница между сервороботами и роботами без сервопривода заключается в их системах управления. Сервороботы используют датчики для постоянной обратной связи о положении и скорости, что позволяет осуществлять точное и адаптивное управление. В отличие от этого, несервоуправляемые роботы лишены возможности обратной связи и работают на основе механических упоров и концевых выключателей, что снижает точность и адаптивность.
+
+
+
+4. What types of paths generate do you know?
+
+*The three different types of paths generated are point-to-point path, controlled path, and continuous path.
+
+
+
+5. What is included in industrial robot system?
+
+*An industrial robot system includes the industrial robot itself as well as any necessary devices and sensors required for the robot to perform its tasks, along with sequencing or monitoring communication interfaces.
+
+
+
+6. What can you tell about Controlled Path?
+
+*In the Controlled Path mode, the robot's arm follows a predictable path and orientation as it moves from point to point. The robot's control system computer calculates the required coordinate transformations, minimizing potential hazards to personnel and equipment.
+
+
+
+7. Why Point-to-Point path can create a potential safety hazard to personnel and equipment?
+
+*The Point-to-Point path can create a potential safety hazard because the exact path taken by the robot may vary slightly due to differences in velocity, joint geometries, and spatial locations, making the robot's movements difficult to predict.
+
+
+
+
+
+
+
+
