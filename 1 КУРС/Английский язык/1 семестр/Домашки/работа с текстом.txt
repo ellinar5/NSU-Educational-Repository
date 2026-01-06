@@ -1,0 +1,73 @@
+
+1. Robot follows .path. (путь) on given  .trajectory. (траектория)
+2. Manipulator can do rotation around vertical осью (axis).
+3. Robot требует (requires) some программируемых (programmable) data to выполнить (perform) a движение (movement).
+4. Computer требует (requires) a обратная связь (feedback) to set a позицию (position).
+5. To turn off the computer you need to .execute. (выполнить) simple последовательность .sequence. (последо
+6. Sometimes you need to .perform. (выполнять) some actions .manually. (вручную) like to turn off the robot with .switch. (переключатель) 
+
+
+
+duclarm robots 
+декартовы роботы - cartesion robots 
+избыточные роботы - redundant robot
+
+краткая информация:
+
+Cartesian Robots  
+Cartesian robots, also known as linear manipulators, move in straight lines along three mutually perpendicular axes corresponding to Cartesian coordinates (X, Y, Z). They are commonly used in automated manufacturing processes for tasks like packaging, assembly, and material handling. Advantages include simple construction, high precision, and easy integration into existing production lines.
+
+Redundant Robots  
+Redundant robots possess more degrees of freedom than required for specific tasks, allowing them to avoid obstacles and choose optimal paths. This adaptability enhances maneuverability and reduces the risk of entrapment. They are widely utilized in complex manipulations, such as surgical robots and research applications. Redundancy also improves positioning accuracy while reducing mechanical stress.
+
+
+текст:
+
+Activity 6. Read the text and check your ideas.
+Industrial Robots
+Industrial robots are programmable multifunctional mechanical devices designed
+to move material, parts, tools, or specialized devices through variable programmed
+motions to perform a variety of tasks. An industrial robot system includes not only
+industrial robots but also any devices and/or sensors required for the robot to perform
+its tasks as well as sequencing or monitoring communication interfaces.
+All industrial robots are either servo or non-servo controlled. Servo robots
+are controlled through the use of sensors that
+continually monitor the robot's axes
+and associated components for position and velocity. This feedback is compared to
+pre-taught information which has been programmed and stored in the robot's
+memory. Non-servo robots do not have the feedback capability, and their axes are
+controlled through a system of mechanical stops and limit switches.
+Industrial robots can be programmed from a distance to perform their
+required and preprogrammed operations with different types of paths generated
+through different control techniques. The three different types of paths generated
+are point-to-point path, controlled path, and continuous
+path.
+Point-to-Point Path. Robots programmed and controlled in this manner are
+programmed to move from one discrete point to another within the robot's working
+envelope. In the automatic mode of operation, the exact path taken by the robot
+will vary slightly due to variations in velocity, joint geometries, and point spatial
+locations. This difference in paths is difficult to predict and therefore can create a
+potential safety hazard to personnel and equipment.
+Controlled Path. The path or mode of movement ensures that the end of the
+robot's arm will follow a predictable path and orientation as the robot travels from
+point to point. The coordinate transformations required for this hardware
+management are calculated by the robot's control system computer. Observations
+that result from this type of programming are less likely to present a hazard to
+personnel and equipment.
+
+
+Activity 7. Answer the questions to the text.
+1. What are industrial robots?
+2. How are servo robots controlled?
+3. What is the difference between servo robots
+and non-servo robots?
+4. What types of paths generate do you know?
+5. What is included in industrial robot system?
+6. What can you tell about Controlled Path?
+7. Why Point-to-Point path can create a potential safety hazard to personnel and
+equipment?
+
+перевод:
+
+
+
