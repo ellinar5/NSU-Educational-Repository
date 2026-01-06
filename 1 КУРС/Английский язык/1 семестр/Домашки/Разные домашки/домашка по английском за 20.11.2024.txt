@@ -1,0 +1,165 @@
+Текст №1
+
+Common classification of robots
+An industrial robot commonly refers to a robot arm used in a factoryenvironment for manufacturing applications. 
+ Traditional industrial robots can be classified according to different criteria such as type of movement (degrees of freedom) and application (manufacturing process).
+Types of movement:
+Cartesian robots are robots that can do 3 translations using linear slides.
+Scara robots are robots that can do 3 translations plus a rotation around a vertical axis. 6-axis robots are robots that can fully position their tool in a given position
+(3 translations) and orientation (3 orientations)
+Redundant robot. 6-axis robots can only have one posture for one given tool position, redundant robots can accommodate a given tool position under different
+postures. This is just like the human arm that can hold a fixed handle while moving the shoulder and elbow joints.
+Dual-arm robots are composed of two arms that can work together on a given work piece.
+The type of movement is dictated by the arrangement of joints (placement and type) and linkages.
+Industrial robots are used for different applications.
+The application is the type of work that the robot is designed to do. Robot models are created with specific applications or processes in mind. Different applications will have different requirements. For instance, a painting robot will require a small payload but a large movement range and be explosion proof. On the other hand, an assembly robot will have a small workspace but will be very precise and fast.
+
+Перевод:
+
+Общая классификация роботов
+Промышленным роботом обычно называют манипулятор, используемый на заводе для производственных целей. 
+ Традиционные промышленные роботы могут быть классифицированы по различным критериям, таким как тип перемещения (степени свободы) и область применения (производственный процесс).
+Типы перемещения:
+Декартовы роботы - это роботы, которые могут выполнять 3 перемещения с помощью линейных направляющих.
+Роботы Scara - это роботы, которые могут выполнять 3 перемещения плюс поворот вокруг вертикальной оси. 6-осевые роботы - это роботы, которые могут полностью расположить свой инструмент в заданном положении
+(3 перемещения) и ориентация (3 ориентации)
+Резервный робот. 6-осевые роботы могут принимать только одну позу для одного заданного положения инструмента, резервные роботы могут принимать заданное положение инструмента в разных
+положениях. Это похоже на то, как человеческая рука может удерживать неподвижную рукоятку, одновременно двигая плечевыми и локтевыми суставами.
+Роботы с двумя руками состоят из двух рук, которые могут работать вместе над заданной заготовкой.
+Тип движения определяется расположением суставов (расположение и тип) и связей.
+Промышленные роботы используются для различных применений.
+Применение - это тип работы, для выполнения которой предназначен робот. Модели роботов создаются с учетом конкретных областей применения или процессов. К различным областям применения предъявляются разные требования. Например, роботу-маляру потребуется небольшая грузоподъемность, но большой диапазон перемещения и он должен быть взрывозащищенным. С другой стороны, сборочный робот будет иметь небольшое рабочее пространство, но будет работать очень точно и быстро.
+
+Номер №10
+1. Can the cartesian robots do 3 translations using linear slides?
+
+*Yes, Cartesian robots can do 3 translations using linear slides
+
+2. Can the redundant robots accommodate a given tool position under different
+postures?
+
+*Yes, redundant robots can accommodate a given tool position under different postures.
+
+3. Will painting robot require a small payload?
+
+*Yes, a painting robot will require a small payload.
+
+4. Which type of movement is more precise?
+
+*The type of movement that is more precise is the 6-axis robot, as it can fully position its tool in a given position and orientation.
+
+5. What are dual arms robots similar to?
+
+*Dual-arm robots are similar to a human arm, which can hold a fixed handle while moving its shoulder and elbow joints.
+
+6. What is the difference between 6-axis robot and redundant robot?
+
+*The difference between a 6-axis robot and a redundant robot is that a 6-axis robot can only have one posture for one given tool position, whereas a redundant robot can accommodate that tool position under different postures.
+
+
+Номер №11
+
+* Crane can be classified as industrial robots with low degrees of freedom, as it moves heavy loads but has limited maneuverability.
+
+*3D printer is also a type of robot that can be classified as a Cartesian robot, since it performs movements in three directions to create objects.
+
+*Tank turret can be classified as a redundant robot, as it can move and rotate in different directions, allowing it to reach various positions.
+
+*Lathe refers to specialized industrial robots designed for material processing, as it works with specific processes in manufacturing.
+
+*A human arm is analogous to a redundant robot, as it can perform a multitude of different positions and movements while still being able to hold objects.
+
+*Table is not a robot but a stationary object used for supporting or placing items.
+
+*Amp is also not a robot; it is an electronic device aimed at amplifying sound and does not fall into the classification of robots.
+
+Текст №2
+
+
+New functionalities
+In 2008, Caterpillar Inc. developed a dump truck which can drive itself without any human operator. Many analysts believe that self-driving trucks may eventually revolutionize logistics. By 2014, Caterpillar had a self-driving dump
+truck which is expected to greatly change the process of mining. Some analysts believe that within the next few decades, most trucks will be self-driving.
+A literate or 'reading robot' named Marge has intelligence that comes from software. She can read newspapers, find and correct misspelled words, learn about banks like Barclays,and understand that some restaurants are better places to eat
+than others.
+Baxter is a new robot which is different from other industrial robots because it can learn. A worker could teach Baxter how to perform a task by moving its
+hands in the desired motion and having Baxter memorize them. Extra dials, buttons, and controls are available on Baxter's arm for more precision and features.
+Any regular worker could program Baxter and it only takes a matter of minutes, unlike usual industrial robots that take extensive programs and coding in order to be used. This means Baxter needs no programming in order to operate. No software engineers are needed. This also means Baxter can be taught to perform multiple, more complicated tasks.
+
+
+
+Перевод: 
+
+Новые функциональные возможности
+В 2008 году компания Caterpillar Inc. разработала самосвал, который может управлять автомобилем самостоятельно, без участия оператора. Многие аналитики считают, что самоходные грузовики могут в конечном итоге произвести революцию в логистике. К 2014 году у Caterpillar появился самоходный
+самосвал, который, как ожидается, значительно изменит процесс добычи полезных ископаемых. Некоторые аналитики полагают, что в ближайшие несколько десятилетий большинство грузовиков будут самоходными.
+Грамотный или "читающий робот" по имени Мардж обладает интеллектом, который основан на программном обеспечении. Она может читать газеты, находить и исправлять орфографические ошибки, узнавать о банках, таких как Barclays, и понимать, что в одних ресторанах лучше поесть
+, чем в других.
+Baxter - это новый робот, который отличается от других промышленных роботов тем, что может обучаться. Рабочий мог бы научить Baxter выполнять задание, совершая
+руками нужные движения и заставляя Baxter запоминать их. Для повышения точности и функциональности на рукоятке Baxter имеются дополнительные циферблаты, кнопки и элементы управления.
+Любой обычный рабочий может запрограммировать Baxter, и это займет всего несколько минут, в отличие от обычных промышленных роботов, для использования которых требуется обширное программное обеспечение. Это означает, что для работы Baxter не требуется программирование. Не требуются инженеры-программисты. Это также означает, что Бакстера можно научить выполнять множество более сложных задач.
+
+
+Номер №13
+
+1. У меня есть робот. У моего робота есть сенсоры и приводы.
+
+*I have a robot. My robot has sensors and actuators.
+
+2. Сын Джоэль - студент. Он студент политехнического университета.
+
+*Joel's son is a student. He is a student at the Polytechnic University.
+
+3. Это новый ангар. Ангар был построен 3 года назад.
+
+*This is a new hangar. The hangar was built 3 years ago.
+
+4. Этот код задает движение робота. Робот двигается по заданному пути.
+
+*This code sets the robot's movement. The robot moves along the specified path.
+
+5. Мы не рассчитывали на такую плохую дождливую погоду.
+Тестирование робота придется отложить.
+
+*We did not expect such bad rainy weather.
+Testing of the robot will have to be postponed.
+
+6. Способность передвижения зависит от возможностей робота.
+
+*The ability to move depends on the capabilities of the robot.
+
+7. Норману нужно купить сервоприводы требуемые для своего дрона.
+
+*Norman needs to buy the servos required for his drone.
+
+
+
+Номер 14
+
+1)I can see three drones. The drones are being tested in the laboratory.
+
+2)This is a robot. The robot is big.
+
+3)I have no a car.
+
+4)She has got some terrible marks at her test.
+
+5)They have a manipulator and two drones.
+
+6)My friend says he is going to be an engineer one day.
+
+7)Would you like to check the code?
+
+8)I go to work by bus. Today the bus was a bit late.
+
+9)Daniel is the youngest but the smartest guy at the laboratory (лабОратри).
+
+10)It rained, so I stayed at home in the evening. But today the sun is shining brightly in the sky.
+
+11)On Tuesday, the engineers were tired and they went home very early.
+
+12)My drone is the best in the world and I'm the happiest engineer!
+
+13)They are having a test on the eighth of November.
+
+14)What a beautiful construction! An engineer is such a talented person.
+

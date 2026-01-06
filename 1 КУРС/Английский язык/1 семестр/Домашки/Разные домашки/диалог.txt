@@ -1,0 +1,44 @@
+ity8. Make up a dialogue answering the following questions. Use the
+ext and the Internet. Think over where this dialogue can take place.
+1. What robots with Point-to-Point path do you know?
+2. What industrial robots are there?
+3. What do you know about servo-controlled robots?
+4. What robots with Controlled path can you name?
+5. What types of path are the most controllable?
+6. What types of path are the most dangerous for personnel?
+7. What robots with Continuous Path do you know?
+
+
+
+
+
+-- scientific conference on robotics --
+
+
+Ellina: Hey Artyom, what do you think about the new robots they are showcasing here?
+
+Artyom: They're impressive! I particularly like the ones with point-to-point paths. Have you seen the new ABB IRB 1200? It's really fast and precise. 
+
+Ellina: Oh, yes! I was just checking it out. It's great for simple tasks, like picking and placing. What about industrial robots in general? Do you have a favorite type? 
+
+Artyom: Well, there are many! Articulated robots are quite popular, like the KUKA KR 30, and they are very flexible. And then there are SCARA robots, good for picking and placing in a horizontal plane. I think they are quite useful for assembly tasks. What do you think?
+
+Ellina: Yes, SCARA robots are amazing! But what about servo-controlled robots? Are they popular too?
+
+Artyom: Absolutely! Servo-controlled robots use motors and sensors to achieve precise movements. They are great for tasks that require a high level of accuracy, like welding and painting. What are your thoughts on them?
+
+Ellina: It seems that a lot of robots have controlled paths. Can you name some examples?
+
+Artyom: Of course! Many industrial robots utilize continuous paths, like the FANUC LR Mate 200iD. They allow the robot to move along a specific trajectory with smooth, continuous motions. Are there any types of paths that you find particularly interesting?
+
+Ellina: You know, I'm really fascinated by the potential of spline-based paths. They seem like they could be incredibly flexible and precise, allowing for complex movements. 
+
+Artyom: That makes sense. And what about the most dangerous paths for personnel? 
+
+Ellina: Well, point-to-point paths can be quite dangerous if not implemented carefully. They can cause sudden, unpredictable movements. 
+
+Artyom: Right, it's important to be aware of the risks. And finally, what other continuous path robots do you know?
+
+Ellina: There are many! The KUKA LBR iiwa is great for collaborative applications, and the ABB YuMi is a small robot designed for working alongside humans. They're both incredibly precise and safe. What are your thoughts on these collaborative robots?
+
+Artyom: Thanks, Ellina. That was a great summary. I'm excited to see what the future holds for robotics!
