@@ -1,0 +1,10 @@
+import Data.List
+import Data.Array
+import Control.Monad
+
+1.t1 :: [Double]
+t1 = map ((\x -> if x >= 0
+                 then x
+                 else negate x) :: (Double -> Double))
+                 [(-1),2,(-4.2)]
+
