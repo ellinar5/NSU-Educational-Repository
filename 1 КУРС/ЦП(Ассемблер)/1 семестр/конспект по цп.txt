@@ -1,0 +1,47 @@
+1)
+
+ldi r0, n (n выделена)
+ld r0,r0 (последняя r0 стрелочкой указывет на jsr)
+jsr rsum ( jsr стрелочкой указывет на r1)
+{(как объединение)
+ldi r0,res
+st r0,r1
+}
+halt
+
+
+2)
+
+addr arq ret
+
+3)
+
+addsp -1
+push r0
+pr
+addrn 1
+apr 2 (отсылает на ret во 2) )
+
+4)
+
+main
+
+addsp -1
+push r0
+
+jsr rsum2
+
+addsp 1
+pop r1
+
+ldi r0,res
+st r0,r1
+halt
+
+
+5)
+
+ldsa rA,const
+addr agr
+ldsa r0,1
+ld r0,r0
