@@ -1,0 +1,101 @@
+https://skysmart.ru/articles/english/present-simple-tense
+
+https://skysmart.ru/articles/english/present-continuous-tense
+
+https://skysmart.ru/articles/english/present-perfect-tense
+
+https://skysmart.ru/articles/english/present-perfect-continuous
+
+PRESENT SIMPLE
+
+Для чего используется - описание регулярных действий и общих истин
+
+Структура: подлижащие + глагол(если he,she,it, то -s/es) + хвост
+
+Добавляется -es когда слова оканчиваются на -ss, -zz, -x, -sh, -ch, -o.
+
+*Если глагол заканчивается на -y, перед которой стоит гласная(play) — просто прибавляем окончание -s: plays 
+
+*Если глагол заканчивается на -y, перед которой стоит согласная (cry) —окончание -y меняем на -i и прибавляем -es: cries  
+
+ГЛАГОЛ TO BE - если нет глагола действия 
+
+I - AM
+We,you,they - ARE
+He,she,it - IS
+
+ПРО DO/DOES
+
+I,you,we,he,she,it,they - DO
+He,she,it - DOES
+
+Маркеры времяни:
+always,usually,often,sometimes,rarely,seldom,hardly ever и never
+
+every 5 minutes/week/month, once a week/year, twice a day/month, 3 times per day/ 5 times per week, in the morning/evening, on Fridays/Mondays, at 6 am/6 pm
+
+
+PRESENT CONTINUOUS
+
+Для чего используется -действия происходящие сейчас, временные ситуации, раздражающие привычки, планы на будущее
+
+Subject + to be (am/is/are) + verb(ing) 
+
+Часто вопрос начинается со специального вопросительного слова: 
+when — когда
+who — кто
+where — где
+why — почему  
+
+Маркеры времяни:
+now, at this moment, right now, still, at present, today, currently
+
+PRESENT PERFECT
+
+Для чего используется - незаконченное действие (но к настоящему уже завершилось), опыт, результат
+
+Subject + have/has + V3 (-ed)
+
+I,we,you,they - HAVE
+He,she,it - HAS
+
+Маркеры времяни:
+ever,never,just,already,not yet,before,lately,so far,recently,by now
+
+PRESENT PERFECT CONTIOUS
+
+Для чего используется - Незавершенные действия,временные действия, подчеркивается длительность действий
+
+Subject + have/has been + V(-ing)
+
+I,we,you,they - HAVE BEEN
+He,she,it - HAS BEEN
+
+Маркеры времяни:
+lately,recently,all day,since,for
+
+
+Проекты:
+
+1)hesitation in voice robots                                                              
+
+decision -> введение текст -> поиск информации (BERT -> (TTC) -> ...
+
+Create an MVP product (22.03.24)
+Optimize the model by improving its performens
+
+Анализ различных голосовых помощников
+
+TeraTTS, Silero and XTTS
+
+Dataset Ruslan
+
+
+2) Can robots save the ecosystem
+
+reforestation to fight climate change
+
+ocean cleanup, rowBot, aurora borealis
+                                         
+
+
